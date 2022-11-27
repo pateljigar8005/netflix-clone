@@ -46,7 +46,7 @@
 
 ## Demo
 
-![demogif](https://github.com/pateljigar8005/netflix-clone/blob/master/netflix-clone-optimize-gif-demo.gif)
+![demogif](https://github.com/pateljigar8005/netflix-clone/blob/main/netflix-clone-optimize-gif-demo.gif)
 
 ---
 
